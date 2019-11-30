@@ -1,5 +1,7 @@
 # Introduction to AI and Open Source (24 Nov 2019)
 
+## Location of Workshop
+RV College of Engineering, Bangalore, India
 
 Thanks to all the attendees of MSPBangalore.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@syedfarhanrvce](https://twitter.com/syedfarhanrvce) for any further inputs (Hash tag #MSPBangalore).
 
