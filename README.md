@@ -12,7 +12,7 @@ Thanks to all the attendees of MSPBangalore.  Here, we are sharing the Presentat
 | 1 | Vivek Malviya | Keynote Session | [Linkedin](https://www.linkedin.com/in/vivek-malviya-0b0b046a/)   |
 | 2 | Syed Farhan Ahmad | Introduction to MSP Program | [Linkedin](https://www.linkedin.com/in/syedfarhanahmad/)  |
 | 3 | Akshaya V M  | Personal Branding | [Linkedin](https://www.linkedin.com/in/akshayavm/)  |
-| 4 | Tanay Tapanshu | Introduction to Git and GitHub | [Presentation](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
+| 4 | Tanay Tapanshu | Introduction to Git and GitHub | [Presentation](https://stdntpartners-my.sharepoint.com/:p:/g/personal/farhan_studentpartner_com/EYQ3kLK5XttKug1Fd0YKtsoBmn_pF9hFjJ-y_gyes1eHcw?e=jOmIai)  |
 | 5 | Rohan Raj | Introduction to Azure and Cloud Computing | [Presentation](https://stdntpartners-my.sharepoint.com/:p:/g/personal/farhan_studentpartner_com/EZiQ1JwkPexNua3ndYLIyjEB62ogQuptONCYrYiFzC-yZw?e=KZBoZa)  |
 | 6 | Sayantika Banik | Academics and Beyond( A sneak peak into Open Source) | [Twitter](https://twitter.com/sayabanik)  |
 | 7 | Syed Ibrahim | Introduction to Machine Learning and its Algorithms | [Presentation](https://stdntpartners-my.sharepoint.com/:p:/g/personal/farhan_studentpartner_com/EQ6Do3vlsRhGmDKYG6KDvWIBHMTobFjqZ7jaEvv1rHIyMg?e=8wy1Hq)  |
